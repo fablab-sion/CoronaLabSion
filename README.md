@@ -21,9 +21,7 @@ Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est n
 
 - Visière
 	- Pour la visière, utiliser une feuille A4 transparente de 0.2mm d'épaisseur, éventuellement de 0.15mm.
-	- Ces visières vont tout simplement venir ce cliper dans la monture tel que montré sur l'image suivante.
-	
-		<img src="details.png" width="300" />
+	- Ces visières vont tout simplement venir ce cliper dans la monture.
 
 - Impression de la monture
 	- Matière: PLA
@@ -41,10 +39,7 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 - Licence: https://creativecommons.org/licenses/by-sa/3.0/deed.fr
 
 - Monture
-	- fichier stl (unité: mm): [Visor_frame_EUROPE_80mm_4hole_v1.stl](Visor_frame_EUROPE_80mm_4hole_v1.stl)
-	- modèle 3D pour l'europe :
-	
-		<img src="visor_frame_iso838_a6.jpg" width="300" />	
+	- fichier stl (unité: mm): [Visor_frame_EUROPE_80mm_4hole_v1-Batch test-single.stl](Visor_frame_EUROPE_80mm_4hole_v1-Batch test-single.stl)	
   
 - Visière
 	- Template pour perforer la feuille A4 : [Template-shield-EUROPE-4hole.pdf](Template-shield-EUROPE-4hole.pdf)

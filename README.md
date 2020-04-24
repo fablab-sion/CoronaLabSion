@@ -52,22 +52,18 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 			2. Faites un test de perforation sur un morceau de papier, puis mesurez la distance entre les trous et chaque bord et assurez-vous que la perforation est symétrique.
 			3. Faites une perforation sur un côté du côté long de la feuille A4
 
-				<img src="hole-punch-v1.jpg" width="300" />
-
 			4. Retournez la feuille A4 autour de son axe court, et faites une perforation sur le côté opposé, de façon à obtenir 4 trous sur le même bord.
 		
 		- Si la matière est du PET, la feuille peut être découpée au moyen d'une découpeuse laser selon le template ci-dessus.
 
-- Impression de la monture
+- Impression de la monture:
 	- Matière: PLA
 	- Quantité utilisée: environ 11-12g 
 	- Precision: 0.2mm est suffisant (sur une Prusa i3 Mk3s)
 	- Infill: 15% est suffisant (Veillez à ne pas trop remplir pour garder la souplesse)
 	- Temps d'impression: environ 1h (sur une Prusa i3 Mk3s)
 
-- Assemblage du tout
-
-	<img src="europe-iso838-2.jpg" width="300" />
+- Assemblage du tout: La feuille vient se cliper sur les ergots.
 	
 
 ## Modèle "Minimalist"
@@ -80,5 +76,5 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 Ce document fait état de plusieurs type de désinfectant et permet d'avoir une vue sur ce qui peut aller suivant la matière de la monture désinfectée. https://faceshield.us/wp-content/uploads/2020/04/Sanitizing_Instructions.pdf
 
 # Paramètres d'impression
-**Attention aux quelques soucis de qualité d'impression, ces montures doivent rester un minimum confortables. Les paramètres d'impression jouent un rôle très important à ce niveau. Cette vidéo explique très bien les paramètres de base auxquels faire attention : [https://youtu.be/-7cbijYlGj4](https://youtu.be/-7cbijYlGj4)**
+Attention aux quelques soucis de qualité d'impression, ces montures doivent rester un minimum confortables. Les paramètres d'impression jouent un rôle très important à ce niveau. Cette vidéo explique très bien les paramètres de base auxquels faire attention : [https://youtu.be/-7cbijYlGj4](https://youtu.be/-7cbijYlGj4)
 

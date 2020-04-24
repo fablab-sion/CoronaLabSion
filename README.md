@@ -12,13 +12,13 @@ Situation en Suisse: [COVID-19_Situation_epidemiologique_en_Suisse.pdf](COVID-19
 
 # Visières faciales
 
-## Modèle NewShield Classic et NewShield Shark
+## Modèle NewShield Shark
 Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est nécessaire pour accrocher la feuille plastique sur la monture. Un système ingénieux de clip à dents tient la feuille. Design développé par Julien Delnatte (CTO de http://mango.io), Marc Demange, Guillaume Raineri et Mathieu Saulenc. https://newshield.org
 
 - Licence: https://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 
 - Monture
-	- fichier stl (unité: mm): [newshieldsupport-org-notext.stl](newshieldsupport-org-notext.stl)
+	- fichier stl (unité: mm): [newshield-shark-notext.stl](newshield-shark-notext.stl)
 	- modèle 3D :
 	
 		<img src="Prototype2.png" width="500" />

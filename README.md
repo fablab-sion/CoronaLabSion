@@ -10,15 +10,10 @@ Situation mondiale: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.h
 
 Situation en Suisse: [COVID-19_Situation_epidemiologique_en_Suisse.pdf](COVID-19_Situation_epidemiologique_en_Suisse.pdf)
 
-# Paramètres d'impression
-**Attention aux quelques soucis de qualité d'impression, ces montures doivent rester un minimum confortables. Les paramètres d'impression jouent un rôle très important à ce niveau. Cette vidéo explique très bien les paramètres de base auxquels faire attention : [https://youtu.be/-7cbijYlGj4](https://youtu.be/-7cbijYlGj4)**
-
 # Visières faciales
 
 ## Modèle NewShield Classic et NewShield Shark
-
-## Modèle 2
-Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est nécessaire pour accrocher la feuille plastique sur la monture. Un système ingénieux de clip tient la feuille. Design développé par Julien Delnatte (CTO de http://mango.io), Marc Demange, Guillaume Raineri et Mathieu Saulenc. https://preview.tinyurl.com/vf2w8u8
+Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est nécessaire pour accrocher la feuille plastique sur la monture. Un système ingénieux de clip à dents tient la feuille. Design développé par Julien Delnatte (CTO de http://mango.io), Marc Demange, Guillaume Raineri et Mathieu Saulenc. https://newshield.org
 
 - Licence: https://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 
@@ -94,12 +89,12 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 ## Modèle "Minimalist"
 - Un test de ce modèle (https://hackaday.io/project/170481-laser-cut-medical-shield) sera réalisé au FabLab de Renens. C'est une visière conçue par Konrad Klepacki et Mateusz Dyrda et qui présente l'avantage d'être produite uniquement par découpage de feuilles de PETG de 0.5 mm d'épaisseur.
 
-
-## Informations sur les matières
+# Informations sur les matières
 - Le PLA ou le PETG plus idéalement semblent être des matières adéquates pour la production des montures imprimées en 3D.
 - Le PVC ou le PET plus idéalement peuvent convenir pour les visières qui pourraient être désinfectées mais finalement consommées rapidement.
 
 Ce document fait état de plusieurs type de désinfectant et permet d'avoir une vue sur ce qui peut aller suivant la matière de la monture désinfectée. https://faceshield.us/wp-content/uploads/2020/04/Sanitizing_Instructions.pdf
 
-
+# Paramètres d'impression
+**Attention aux quelques soucis de qualité d'impression, ces montures doivent rester un minimum confortables. Les paramètres d'impression jouent un rôle très important à ce niveau. Cette vidéo explique très bien les paramètres de base auxquels faire attention : [https://youtu.be/-7cbijYlGj4](https://youtu.be/-7cbijYlGj4)**
 

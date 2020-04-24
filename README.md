@@ -39,7 +39,7 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 - Licence: https://creativecommons.org/licenses/by-sa/3.0/deed.fr
 
 - Monture
-	- fichier stl (unité: mm): [Visor_frame_EUROPE_80mm_4hole_v1-Batch test-single.stl](Visor_frame_EUROPE_80mm_4hole_v1-Batch test-single.stl)	
+	- fichier stl (unité: mm): [Visor_frame_EUROPE_80mm_4hole_v1-Batch_test-single.stl](Visor_frame_EUROPE_80mm_4hole_v1-Batch_test-single.stl)	
   
 - Visière
 	- Template pour perforer la feuille A4 : [Template-shield-EUROPE-4hole.pdf](Template-shield-EUROPE-4hole.pdf)

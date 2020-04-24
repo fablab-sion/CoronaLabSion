@@ -69,6 +69,18 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 ## Modèle "Minimalist"
 - Un test de ce modèle (https://hackaday.io/project/170481-laser-cut-medical-shield) sera réalisé au FabLab de Renens. C'est une visière conçue par Konrad Klepacki et Mateusz Dyrda et qui présente l'avantage d'être produite uniquement par découpage de feuilles de PETG de 0.5 mm d'épaisseur.
 
+# Extenseurs pour masques 
+
+Vous pouvez aussi trouver des extenseurs pour soulager la pression subie derrière les oreilles. Vous pouvez trouver un modèle mini et un modèle grand.
+
+## Modèle "Newshield"
+
+- Grand modèle : [newshield-ear-protector-v2.stl](newshield-ear-protector-v2.stl)
+- Petit modèle : [newshield-ear-protector-mini-v2.stl](newshield-ear-protector-mini-v2.stl)
+
+## Modèle 
+
+
 # Informations sur les matières
 - Le PLA ou le PETG plus idéalement semblent être des matières adéquates pour la production des montures imprimées en 3D.
 - Le PVC ou le PET plus idéalement peuvent convenir pour les visières qui pourraient être désinfectées mais finalement consommées rapidement.

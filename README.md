@@ -24,27 +24,23 @@ Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est n
 		<img src="Prototype2.png" width="500" />
 
 - Visière
-	- Template pour la visière : [Template-shield-EUROPE-4hole.pdf](Template-shield-EUROPE-4hole.pdf)
-	- Cette visière doit être découpée dans une feuille A4 transparente de 0.15mm d'épaisseur, au maximum dans du 0.18mm.
-	- Les découpes peuvent être faites selon le template ci-dessus (pas besoin de faire les trous pour ce prototype).
-	- Si la matière est du PVC, les découpes doivent être faites manuellement. Si la matière est du PET, les découpes peuvent être faites au laser.
+	- Pour la visière, utiliser une feuille A4 transparente de 0.2mm d'épaisseur, éventuellement de 0.15mm.
 	- Ces visières vont tout simplement venir ce cliper dans la monture tel que montré sur l'image suivante.
 	
 		<img src="details.png" width="300" />
 
 - Impression de la monture
-	- Matière: PLA ou PETG
+	- Matière: PLA
 	- Quantité utilisée: environ 20g 
-	- Précision: 0.39mm est suffisant
+	- Précision: 0.39mm est suffisant (sur une Zortrax M200)
 	- Infill: 0% ou 10% pas plus.
 	- Temps d'impression: environ 1h30 (sur une Zortrax M200)
-	- Quantité de matière: environ 
 	
 - Assemblage
-	- Si besoin, perforer la feuille là où il y a des trous dans la monture pour sécuriser la feuille si elle venait à tomber. 
-	- Les boucles ne sont pas utilisées car non-nécessaire. A la place, l'élastique (de type élastique-boutonnière https://www.aboutdefil.com/images/pages/elastique-boutonniere.jpg) vient se crocher directement sur la monture afin qu'elle s'adapte à toutes les têtes.
+	- voir notice.
 
 		<img src="Assembled_frame.png" width="300" />
+
 
 ## Modèle 3DVerkstan
 Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une feuille trouée au moyen d'une perforatrice 2 trous ISO 838 qui est commune dans toute l'Europe. Design développé par https://3dverkstan.se/protective-visor/.
@@ -77,7 +73,7 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 - Impression de la monture
 	- Matière: PLA
 	- Quantité utilisée: environ 11-12g 
-	- Precision: 0.2mm est suffisant
+	- Precision: 0.2mm est suffisant (sur une Prusa i3 Mk3s)
 	- Infill: 15% est suffisant (Veillez à ne pas trop remplir pour garder la souplesse)
 	- Temps d'impression: environ 1h (sur une Prusa i3 Mk3s)
 

@@ -17,11 +17,7 @@ Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est n
 
 - Licence: https://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 
-- Monture
-	- fichier stl (unité: mm): [newshield-shark-notext.stl](newshield-shark-notext.stl)
-	- modèle 3D :
-	
-		<img src="Prototype2.png" width="500" />
+- Fichier stl de la monture (unité: mm): [newshield-shark-notext.stl](newshield-shark-notext.stl)
 
 - Visière
 	- Pour la visière, utiliser une feuille A4 transparente de 0.2mm d'épaisseur, éventuellement de 0.15mm.
@@ -37,10 +33,7 @@ Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est n
 	- Temps d'impression: environ 1h30 (sur une Zortrax M200)
 	
 - Assemblage
-	- voir notice.
-
-		<img src="Assembled_frame.png" width="300" />
-
+	- voir notice : [notice-newshield-shark-livret.pdf](notice-newshield-shark-livret.pdf)
 
 ## Modèle 3DVerkstan
 Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une feuille trouée au moyen d'une perforatrice 2 trous ISO 838 qui est commune dans toute l'Europe. Design développé par https://3dverkstan.se/protective-visor/.

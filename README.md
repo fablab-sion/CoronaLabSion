@@ -17,6 +17,40 @@ Situation en Suisse: [COVID-19_Situation_epidemiologique_en_Suisse.pdf](COVID-19
 
 ## Modèle NewShield Classic et NewShield Shark
 
+## Modèle 2
+Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est nécessaire pour accrocher la feuille plastique sur la monture. Un système ingénieux de clip tient la feuille. Design développé par Julien Delnatte (CTO de http://mango.io), Marc Demange, Guillaume Raineri et Mathieu Saulenc. https://preview.tinyurl.com/vf2w8u8
+
+- Licence: https://creativecommons.org/licenses/by-nc-nd/2.0/fr/
+
+- Monture
+	- fichier stl (unité: mm): [newshieldsupport-org-notext.stl](newshieldsupport-org-notext.stl)
+	- modèle 3D :
+	
+		<img src="Prototype2.png" width="500" />
+
+- Visière
+	- Template pour la visière : [Template-shield-EUROPE-4hole.pdf](Template-shield-EUROPE-4hole.pdf)
+	- Cette visière doit être découpée dans une feuille A4 transparente de 0.15mm d'épaisseur, au maximum dans du 0.18mm.
+	- Les découpes peuvent être faites selon le template ci-dessus (pas besoin de faire les trous pour ce prototype).
+	- Si la matière est du PVC, les découpes doivent être faites manuellement. Si la matière est du PET, les découpes peuvent être faites au laser.
+	- Ces visières vont tout simplement venir ce cliper dans la monture tel que montré sur l'image suivante.
+	
+		<img src="details.png" width="300" />
+
+- Impression de la monture
+	- Matière: PLA ou PETG
+	- Quantité utilisée: environ 20g 
+	- Précision: 0.39mm est suffisant
+	- Infill: 0% ou 10% pas plus.
+	- Temps d'impression: environ 1h30 (sur une Zortrax M200)
+	- Quantité de matière: environ 
+	
+- Assemblage
+	- Si besoin, perforer la feuille là où il y a des trous dans la monture pour sécuriser la feuille si elle venait à tomber. 
+	- Les boucles ne sont pas utilisées car non-nécessaire. A la place, l'élastique (de type élastique-boutonnière https://www.aboutdefil.com/images/pages/elastique-boutonniere.jpg) vient se crocher directement sur la monture afin qu'elle s'adapte à toutes les têtes.
+
+		<img src="Assembled_frame.png" width="300" />
+
 ## Modèle 3DVerkstan
 Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une feuille trouée au moyen d'une perforatrice 2 trous ISO 838 qui est commune dans toute l'Europe. Design développé par https://3dverkstan.se/protective-visor/.
 
@@ -57,7 +91,15 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 	<img src="europe-iso838-2.jpg" width="300" />
 	
 
-## Informations sur la désinfection
-Ce document fait état de plusieurs type de désinfectant et permet d'avoir une vue sur ce qui peut aller suivant la matière de la monture désinfectée.
+## Modèle "Minimalist"
+- Un test de ce modèle (https://hackaday.io/project/170481-laser-cut-medical-shield) sera réalisé au FabLab de Renens. C'est une visière conçue par Konrad Klepacki et Mateusz Dyrda et qui présente l'avantage d'être produite uniquement par découpage de feuilles de PETG de 0.5 mm d'épaisseur.
 
-https://faceshield.us/wp-content/uploads/2020/04/Sanitizing_Instructions.pdf
+
+## Informations sur les matières
+- Le PLA ou le PETG plus idéalement semblent être des matières adéquates pour la production des montures imprimées en 3D.
+- Le PVC ou le PET plus idéalement peuvent convenir pour les visières qui pourraient être désinfectées mais finalement consommées rapidement.
+
+Ce document fait état de plusieurs type de désinfectant et permet d'avoir une vue sur ce qui peut aller suivant la matière de la monture désinfectée. https://faceshield.us/wp-content/uploads/2020/04/Sanitizing_Instructions.pdf
+
+
+

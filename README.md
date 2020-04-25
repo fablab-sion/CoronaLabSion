@@ -27,13 +27,13 @@ Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est n
 	
 - Visière:
 	- Pour la visière, utiliser une feuille A4 transparente de 0.2mm d'épaisseur, éventuellement de 0.15mm.
-	- Ces visières vont tout simplement venir ce cliper dans la monture.
+	- Ces visières vont tout simplement venir se cliper dans la monture.
 	
 - Assemblage:
 	- voir notice : [notice-newshield-shark-livret.pdf](notice-newshield-shark-livret.pdf)
 
 ## Modèle 3DVerkstan
-Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une feuille trouée au moyen d'une perforatrice 2 trous ISO 838 qui est commune dans toute l'Europe. Design développé par https://3dverkstan.se/protective-visor/.
+Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une feuille trouée au moyen d'une perforatrice 2 trous qui est commune dans toute l'Europe. Design développé par https://3dverkstan.se/protective-visor/.
 
 - Licence: https://creativecommons.org/licenses/by-sa/3.0/deed.fr
 
@@ -61,19 +61,16 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 	
 
 ## Modèle "Minimalist"
-- Un test de ce modèle (https://hackaday.io/project/170481-laser-cut-medical-shield) sera réalisé au FabLab de Renens. C'est une visière conçue par Konrad Klepacki et Mateusz Dyrda et qui présente l'avantage d'être produite uniquement par découpage de feuilles de PETG de 0.5 mm d'épaisseur.
+Un test de ce modèle (https://hackaday.io/project/170481-laser-cut-medical-shield) sera réalisé au FabLab de Renens. C'est une visière conçue par Konrad Klepacki et Mateusz Dyrda et qui présente l'avantage d'être produite uniquement par découpage de feuilles de PETG de 0.5 mm d'épaisseur.
 
-# Extenseurs pour masques 
-
+# Extenseurs pour masques
 Vous pouvez aussi trouver des extenseurs pour soulager la pression subie derrière les oreilles. Vous pouvez trouver un modèle mini et un modèle grand.
 
 ## Modèle "Newshield"
-
 - Grand modèle : [newshield-ear-protector-v2.stl](newshield-ear-protector-v2.stl)
 - Petit modèle : [newshield-ear-protector-mini-v2.stl](newshield-ear-protector-mini-v2.stl)
 
-## Modèle
-
+## Modèle "Surgical remix"
 
 
 

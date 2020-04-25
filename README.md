@@ -1,7 +1,7 @@
 # CoronaLabSion
-Dépôt des projets réalisés durant la crise du Covid19
+Dépôt des projets réalisés durant la crise du Covid19.
 
-Sous l'impulsion de Grégoire Largey et Lucas Monachon, le FabLab Sion et TheArk se sont alliés afin de lancer un appel aux makers de Sion et région afin de fournir du matériel à l'Hôpital de Sion dans un premier temps. Deux modèles ont été retenu et il s'agira d'imprimer des montures pour un test à large échelle au sein de l'hôpital.
+Sous l'impulsion de Grégoire Largey et Lucas Monachon, le FabLab Sion et TheArk se sont alliés afin de lancer un appel aux makers de Sion et région afin de fournir du matériel à l'Hôpital de Sion. Le modèle "3DVerkstan" a été retenu à l'Hôpital car plus aisé à mettre et enlever rapidement. 
 
 Pour toutes questions, vous pouvez contacter le FabLab Sion.
 
@@ -67,11 +67,11 @@ Un test de ce modèle (https://hackaday.io/project/170481-laser-cut-medical-shie
 Vous pouvez aussi trouver des extenseurs pour soulager la pression subie derrière les oreilles. Vous pouvez trouver un modèle mini et un modèle grand.
 
 ## Modèle "Newshield"
-- Grand modèle : [newshield-ear-protector-v2.stl](newshield-ear-protector-v2.stl)
-- Petit modèle : [newshield-ear-protector-mini-v2.stl](newshield-ear-protector-mini-v2.stl)
+- STL grand modèle: [newshield-ear-protector-v2.stl](newshield-ear-protector-v2.stl)
+- STL petit modèle: [newshield-ear-protector-mini-v2.stl](newshield-ear-protector-mini-v2.stl)
 
 ## Modèle "Surgical remix"
-
+- Fichier STL: [Surgical_Mask_Strap_Remix.stl](Surgical_Mask_Strap_Remix.stl)
 
 
 # Informations sur les matières

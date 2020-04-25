@@ -17,20 +17,19 @@ Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est n
 
 - Licence: https://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 
-- Fichier stl de la monture (unité: mm): [newshield-shark-notext.stl](newshield-shark-notext.stl)
-
-- Visière
-	- Pour la visière, utiliser une feuille A4 transparente de 0.2mm d'épaisseur, éventuellement de 0.15mm.
-	- Ces visières vont tout simplement venir ce cliper dans la monture.
-
-- Impression de la monture
+- Monture:
+	- Fichier stl (unité: mm): [newshield-shark-notext.stl](newshield-shark-notext.stl)
 	- Matière: PLA
 	- Quantité utilisée: environ 20g 
 	- Précision: 0.39mm est suffisant (sur une Zortrax M200)
 	- Infill: 0% ou 10% pas plus.
 	- Temps d'impression: environ 1h30 (sur une Zortrax M200)
 	
-- Assemblage
+- Visière:
+	- Pour la visière, utiliser une feuille A4 transparente de 0.2mm d'épaisseur, éventuellement de 0.15mm.
+	- Ces visières vont tout simplement venir ce cliper dans la monture.
+	
+- Assemblage:
 	- voir notice : [notice-newshield-shark-livret.pdf](notice-newshield-shark-livret.pdf)
 
 ## Modèle 3DVerkstan
@@ -38,32 +37,27 @@ Testée par Grégoire Largey, ce modèle est fait pour être utilisée avec une 
 
 - Licence: https://creativecommons.org/licenses/by-sa/3.0/deed.fr
 
-- Monture
-	- fichier stl (unité: mm): [Visor_frame_EUROPE_80mm_4hole_v1-Batch_test-single.stl](Visor_frame_EUROPE_80mm_4hole_v1-Batch_test-single.stl)	
-  
-- Visière
-	- Template pour perforer la feuille A4 : [Template-shield-EUROPE-4hole.pdf](Template-shield-EUROPE-4hole.pdf)
-	
-		- Cette visière doit être découpée dans une feuille A4 transparente de 0.15mm d'épaisseur, au maximum dans du 0.18mm.
-	
-		- Si la matière est du PVC, faire les trous à l'aide d'une perforatrice standard :
-
-			1. Réglez votre perforatrice sur la position d'une feuille A6, en tirant sur la barre de guidage jusqu'à ce qu'elle indique "A6".
-			2. Faites un test de perforation sur un morceau de papier, puis mesurez la distance entre les trous et chaque bord et assurez-vous que la perforation est symétrique.
-			3. Faites une perforation sur un côté du côté long de la feuille A4
-
-			4. Retournez la feuille A4 autour de son axe court, et faites une perforation sur le côté opposé, de façon à obtenir 4 trous sur le même bord.
-		
-		- Si la matière est du PET, la feuille peut être découpée au moyen d'une découpeuse laser selon le template ci-dessus.
-
-- Impression de la monture:
+- Monture:
+	- Fichier stl (unité: mm): [Visor_frame_EUROPE_80mm_4hole_v1-Batch_test-single.stl](Visor_frame_EUROPE_80mm_4hole_v1-Batch_test-single.stl)
 	- Matière: PLA
 	- Quantité utilisée: environ 11-12g 
 	- Precision: 0.2mm est suffisant (sur une Prusa i3 Mk3s)
 	- Infill: 15% est suffisant (Veillez à ne pas trop remplir pour garder la souplesse)
 	- Temps d'impression: environ 1h (sur une Prusa i3 Mk3s)
+	
+- Visière:
+	- Cette visière doit être découpée dans une feuille A4 transparente de 0.15mm d'épaisseur, au maximum dans du 0.18mm.
+	- Si la matière est du PVC, faire les trous à l'aide d'une perforatrice standard :
 
-- Assemblage du tout: La feuille vient se cliper sur les ergots.
+		1. Réglez votre perforatrice sur la position d'une feuille A6, en tirant sur la barre de guidage jusqu'à ce qu'elle indique "A6".
+		2. Faites un test de perforation sur un morceau de papier, puis mesurez la distance entre les trous et chaque bord et assurez-vous que la perforation est symétrique.
+		3. Faites une perforation sur un côté du côté long de la feuille A4
+
+		4. Retournez la feuille A4 autour de son axe court, et faites une perforation sur le côté opposé, de façon à obtenir 4 trous sur le même bord.
+		
+	- Si la matière est du PET, la feuille peut être découpée au moyen d'une découpeuse laser selon le template ci-dessus.
+
+- Assemblage: La feuille vient se cliper sur les ergots.
 	
 
 ## Modèle "Minimalist"
@@ -78,7 +72,9 @@ Vous pouvez aussi trouver des extenseurs pour soulager la pression subie derriè
 - Grand modèle : [newshield-ear-protector-v2.stl](newshield-ear-protector-v2.stl)
 - Petit modèle : [newshield-ear-protector-mini-v2.stl](newshield-ear-protector-mini-v2.stl)
 
-## Modèle 
+## Modèle
+
+
 
 
 # Informations sur les matières

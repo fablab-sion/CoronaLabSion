@@ -18,7 +18,8 @@ Testée par Lucas Monachon, ce modèle a la particularité qu'aucun trou n'est n
 - Licence: https://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 
 - Monture:
-	- Fichier stl (unité: mm): [newshield-shark-notext.stl](newshield-shark-notext.stl)
+	- Fichier STL "Monture" (unité: mm): [newshield-shark-notext.stl](newshield-shark-notext.stl)
+	- Fichier STL "Boucles" : vous devez imprimer une paire de boucle en fonction de l'épaisseur de vôtre élastique. 
 	- Matière: PLA
 	- Quantité utilisée: environ 20g 
 	- Précision: 0.39mm est suffisant (sur une Zortrax M200)

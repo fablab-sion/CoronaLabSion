@@ -1,5 +1,5 @@
 # CoronaLabSion
-Dépôt des projets réalisés durant la crise du Covid19.
+Dépôt des actions menées durant la crise du Covid19.
 
 Sous l'impulsion de Grégoire Largey et Lucas Monachon, le FabLab Sion et TheArk se sont alliés afin de lancer un appel aux makers de Sion et région afin de fournir du matériel à l'Hôpital de Sion. Le modèle "3DVerkstan" a été retenu à l'Hôpital car plus aisé à mettre et enlever rapidement. 
 
